@@ -1,9 +1,0 @@
-truck_counter/
-├── app.py
-├── requirements.txt
-├── static/
-│   ├── index.html
-│   └── script.js
-├── reports/
-│   └── .gitkeep
-└── history.json

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1ecdc56d-08dd-446b-94f0-4a2afbaccee1",
+    "timestamp": "2026-04-03T18:02:27.177045",
+    "filename": "bandicam 2026-04-03 15-41-18-372.mp4",
+    "truck_count": 99,
+    "detections_count": 99,
+    "type": "video",
+    "frames_processed": 3116
+  },
+  {
+    "id": "f2e1fb7c-f1d3-4fc7-8692-e1dd8b5edff2",
+    "timestamp": "2026-04-03T17:58:44.899955",
+    "filename": "bandicam 2026-04-03 15-41-18-372.mp4",
+    "truck_count": 99,
+    "detections_count": 99,
+    "type": "video",
+    "frames_processed": 3116
+  },
+  {
+    "id": "dd6a51f3-12f6-4131-b620-6e7164fdc8c7",
+    "timestamp": "2026-04-03T16:39:31.801379",
+    "filename": "bandicam 2026-04-03 15-41-18-372.mp4",
+    "truck_count": 99,
+    "detections_count": 99,
+    "type": "video",
+    "frames_processed": 3116
+  }
+]
